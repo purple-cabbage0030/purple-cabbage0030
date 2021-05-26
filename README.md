@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&hide_title=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purple-cabbage0030)](https://github.com/purple-cabbage0030/github-readme-stats)
