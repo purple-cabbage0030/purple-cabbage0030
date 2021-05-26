@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&theme=dark)
+![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&hide_title=true&theme=dark)
