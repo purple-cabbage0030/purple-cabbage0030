@@ -4,8 +4,8 @@
 
 
 <h3 align='center'>:books: My tech stack :books:</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
