@@ -1,8 +1,5 @@
 <h1 align='center'> 🥰 Welcome to my Github 🥰 <h1>
 
-
-
-
 <h3 align='center'>:books: My tech stack :books:</p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/></a>
