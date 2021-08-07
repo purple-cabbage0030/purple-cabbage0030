@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
 <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>
 
-<br><br><br>
+<br><br><hr><br><br>
 
 ![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&hide_title=true&theme=midnight-purple&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purple-cabbage0030&layout=compact&theme=midnight-purple)](https://github.com/purple-cabbage0030/github-readme-stats)
