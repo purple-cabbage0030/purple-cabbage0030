@@ -4,11 +4,16 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BeatifulSoup-59666C?logo=&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Oracle DB-F80000?logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL DB-4479A1?logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kibana-005571?logo=Kibana&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Logstash-005571?logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Filebeat-005571?logo=&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
 <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>
