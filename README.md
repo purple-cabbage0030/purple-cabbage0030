@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"/>
 <br><br><hr><br><br>
 
 ![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&hide_title=true&theme=midnight-purple&hide=issues)
