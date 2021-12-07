@@ -1,6 +1,6 @@
 <h1 align='center'> 🥰 Welcome to my Github 🥰 <h1>
 
-<h3 align='center'>:books: My tech stack :books:</p>
+  <h3 align='center'>:books: My tech stack :books: </p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"/></a>
@@ -26,6 +26,11 @@
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"/>
+<br><br>
+ 📝 currently learning:</p>
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white"/></h3>
+
 <br><br><hr><br><br>
 
 ![purple-cabbage0030's github stats](https://github-readme-stats.vercel.app/api?username=purple-cabbage0030&show_icons=true&hide_title=true&theme=midnight-purple&hide=issues)
